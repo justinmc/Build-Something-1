@@ -1,0 +1,33 @@
+html {
+    height: 100%;
+}
+
+body {
+    margin: 0;
+    text-align: center;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #333;
+}
+
+h1 {
+    text-align: center;
+}
+
+canvas#scroller {
+}
+
+.container {
+    width: 80%;
+    margin: 0 auto 48px auto;
+    text-align: left;
+}
+
+#bg {
+    height: 99%;
+}
+
+#ship {
+    position: absolute;
+    top: 50%;
+    left: 10%;
+}
